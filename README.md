@@ -47,8 +47,8 @@ The core model is based on **VGG16**, originally trained on the ImageNet dataset
 ## 📊 Results & Performance
 | Metric | Score |
 | --- | --- |
-| **Test Accuracy** | `97.89%` |
-| **Test Loss** | `0.4330` |
+| **Test Accuracy** | `97.38%` |
+| **Test Loss** | `0.4400` |
 
 *(Insert your training accuracy and loss curves screenshot here, standard Markdown approach: `![Training Curves](path/to/image.png)`)*
 
